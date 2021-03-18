@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="order_by_rating">Order by Rating</string>
+    <string name="filter_by_rating">Filter By Rating</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="all">All</string>
+    <string-array name="filter_by">
+        <item>All</item>
+        <item>Above 0.5 Stars</item>
+        <item>Above 1 Star</item>
+        <item>Above 1.5 Stars</item>
+        <item>Above 2 Stars</item>
+        <item>Above 2.5 Stars</item>
+        <item>Above 3 Stars</item>
+        <item>Above 3.5 Stars</item>
+        <item>Above 4 Stars</item>
+        <item>Above 4.5 Stars</item>
+        <item>Only 5 Stars</item>
+    </string-array>
+</resources>
